@@ -1,17 +1,27 @@
-### Hi!! 👋 My name is Nicolás Zapata Álzate
+![Nicolás Zapata Álzate](public/niczapata.gif)
+
+### Hey!! 👋 My name is Nic
 
 ## About me
 
-I'm a Informatics Engineer 👨‍🎓 and a programmer.
+ Informatics Engineer and a programmer, Linux lover and an anime lunatic.
 
 ## Skills and experiences
 
-- 🌱 I'm a developer, for be more specific, in web and mobile development.
-- 👨‍💻 My actually skills are tools like Odoo, React Native, Flutter and Android Studio Development. My favorite programming lenguages are:
-  - Javascript
-  - Python
-  - Kotlin
-  - Dart
-  - Java
-  - Go
-- 🎒 2025 Goals: Grow my English skils and start to learn more about AWS and Azure for Cloud Computing.
+- I have a bachelor's degree in Informatics.
+- I have experience in the following programming languages:
+- Javascript
+- Python
+- Kotlin
+- Dart
+- Java
+- Go 
+##  🎒 2026 Goals:
+- Grow my English skils.
+- Improve my programming skills.
+- Learn Go.
+
+
+![Nicolas Zapata's GitHub stats](https://github-readme-stats.vercel.app/api?username=niczapata&theme=dark&show_icons=true&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niczapata&theme=dark&show_icons=true&hide_title=true&layout=compact)
