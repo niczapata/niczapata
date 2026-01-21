@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Nic
 
-<img src="public/niczapata.gif" width="600" alt="Nicolás Zapata Álzate">
+<img src="public/niczapata.gif" width="100%" alt="Nicolás Zapata Álzate">
 
 ---
 
@@ -36,8 +36,8 @@ Welcome to my profile! I'm a passionate developer who loves turning coffee into 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niczapata&theme=ayu_light" alt="GitHub Stats"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niczapata&theme=ayu_light" alt="GitHub Summary"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niczapata&theme=ayu_mirage" alt="GitHub Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niczapata&theme=ayu_mirage" alt="GitHub Summary"/>
 </div>
 
 ---
