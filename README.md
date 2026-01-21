@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Nic
 
-<img src="public/niczapata.gif" width="100%" alt="Nicolás Zapata Álzate">
+<img src="public/niczapata.gif" width="70%" alt="Nicolás Zapata Álzate">
 
 ---
 
