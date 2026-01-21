@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Nic
 
-![Nicolás Zapata Álzate](public/niczapata.mp4)
+![Nicolás Zapata Álzate](public/niczapata.gif)
 
 ---
 
